@@ -31,7 +31,7 @@ public static class FloatingHelper
     }
 
     /// <summary>
-    /// Calculates round value, which is being determinate by
+    /// Calculates round value, which is being determinated by
     /// the count of digits in <paramref name="value"/> and
     /// related <paramref name="shift"/> value.
     /// </summary>
